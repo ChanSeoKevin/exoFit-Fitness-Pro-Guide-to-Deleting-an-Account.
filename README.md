@@ -1,4 +1,4 @@
-# exoRehab-Pro-Guide-to-Deleting-an-Account
+# exoFit Fitness-Pro-Guide-to-Deleting-an-Account
 Guide to Deleting Your Account for exoRehab Users
 
 Please send the account you wish to delete and the reason for its deletion to charles@exosystems.io.
