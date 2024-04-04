@@ -7,7 +7,7 @@ Example of email composition:
 
 Hello,
 
-I am an exoRehab-Pro user.
+I am an exoFit fitness-Pro user.
 
 I am contacting you because I would like to delete my account.
 
@@ -17,6 +17,8 @@ Account Information
 
 - Email: example@gmail.com
 - Password: 12345678
+- name : Kevin
+- social account : KAKAO
 
 Reason
 
